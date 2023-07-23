@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:cursive;
+}
+.navbar{
+    width: 100%;
+    height: 50px;
+    background: rgb(224, 213, 213);
+
+}
+h2{
+    color: green;
+    padding-left: 50px;
+    
+}
+.nav__icon1{
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.nav__icon2{
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 100px;
+    margin: -22px;
+}
+.nav__icon3{
+    color: white;
+    display: flex;
+    gap: 40px;
+    padding-left: 160px;
+    margin-top: -22px;
+}
+.nav__icon4{
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 250px;
+    margin-top: -22px;
+}
+.nav__icon5{
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 320px;
+    margin-top: -22px;
+}
+.nav__icon6{
+    color: white;
+    display: flex;
+   gap: 15px;
+    padding-left: 70%;
+    margin-top: -20px;
+}
+.nav__icon7{
+    color: white;
+    display: flex;
+    gap: 20px;
+    padding-left: 80%;
+    margin-top: -20px;
+}
+.nav__icon8{
+color:white;
+display: flex;
+gap: 20px;
+padding-left: 90%;
+margin-top: -20px;
+}
+.text{
+    width: 100%;
+    height: 50px;
+
+    color: black;
+    display: flex;
+    gap: 40px;
+    padding-top: 10px;
+    padding-left: 19%;  
+}
+
+.e{
+    padding-left: 50px;
+    margin-top: -30%;
+    color: white;
+}
+.y{
+    padding-left: 50px;
+    color: white;
+    display: flex;
+    gap: 40px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background: white;
+    color: black;
+    margin-top: 70px;
+    margin-left: 50px;
+    font-family: cursive;
+    border: none;
+}
+.li{
+color: black;
+text-align: center;
+margin-top: 15%;
+}
+.q{
+    width: 100%;
+    height: 50%;
+}
